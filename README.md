@@ -1,6 +1,7 @@
 # HS_SugangSincheng
 Univ. Subject Auto Sign Up
 
+
 #### #Module List
 sys, requests, os, BeautifulSoup4, PyQt, time
 
@@ -10,7 +11,6 @@ Login, Univ. Login, 장바구니 목록, 장바구니에 담겨져 있는 과목
 
 
 #### #How to build
-
 pyinstaller --windowed -F --icon=test.ico TicketingMacro.spec
 
 --windowed -> 콘솔 창이 나오지 않게
